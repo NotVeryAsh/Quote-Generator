@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(90deg, rgba(192,222,154,1) 0%, rgba(200,225,169,1) 50%, rgba(192,222,154,1) 100%);
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1,h2,h3,p,.shadow {
+    filter: drop-shadow(3px 3px 4px #75865FFF);
+}
+
+.green {
+    background-color: #c2d8b4;
+}
+
+.green-disabled {
+    background-color: #cce1be;
+}
